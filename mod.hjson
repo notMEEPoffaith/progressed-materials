@@ -1,5 +1,5 @@
 name: prog-mats
-displayName: "[accent]Progressed Materials"
+displayName: "[accent]Progressed Materials but i, notMEEPoffaith, have fucked with it a bit!"
 author:
   '''
   [accent]Creator:
@@ -14,13 +14,14 @@ author:
       Kapzduke (Tinker sprites)
       Some sounds from Freesound.
       Anyone I stole code from.
+      Also notMEEPoffaith, the creator of this fork
   '''
 description:
   '''
-  My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.
+  hehe fork go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
   
   The name definitely isn't made of the synonyms of "Advance" and "Content".
   '''
 version: 0.39
 minGameVersion: 126
-repo: MEEPofFaith/progressed-materials
+repo: notMEEPoffaith/progressed-materials
